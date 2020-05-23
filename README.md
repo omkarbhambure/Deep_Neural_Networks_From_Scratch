@@ -6,18 +6,18 @@ Timeline and files in implementing DNN from scratch
 * 00- v1.0 - Data preparation file
 * 01- v1.1 - Logistic Regression and 2 Layer Shallow Neural Network (sigmoid -> sigmoid)
 * 02- Data augmentation (increasing dataset, thus creating new dataset)
-* 03- v1.1.1 v1.1 with new dataset
-* 04- v1.2 shallow nn implementation (relu -> sigmoid) on original dataset
-* 05- v1.2.1 v1.2 with new dataset (relu -> sigmoid)
-* 06- v1.3 deep nn with original dataset ((n-1)relu -> sigmoid)
-* 07- v1.3.1 deep nn with new dataset
-* 08- v1.3.2 v1.3.1 with He/Xavier initialization and Dropout regularization (failed)
-* 09- v1.3.3 v1.3.1 with He/Xavier Initialization
-* 10- v1.4 DNN with He/Xavier initialization and Adam optimizer
-* 11- v_1.1   3 classes instead of 2,
-* 12- v_1.1.1 softmax function changed
-* 13- v_1.2   uses adam optimizer 
-* 14- v_1.2.1 now 7 classes,with adam optimizer
+* 03- v1.1.1 - v1.1 with new dataset
+* 04- v1.2 - shallow nn implementation (relu -> sigmoid) on original dataset
+* 05- v1.2.1 - v1.2 with new dataset (relu -> sigmoid)
+* 06- v1.3 - deep nn with original dataset ((n-1)relu -> sigmoid)
+* 07- v1.3.1 - deep nn with new dataset
+* 08- v1.3.2 - v1.3.1 with He/Xavier initialization and Dropout regularization (failed)
+* 09- v1.3.3 - v1.3.1 with He/Xavier Initialization
+* 10- v1.4 - DNN with He/Xavier initialization and Adam optimizer
+* 11- v_1.1 - 3 classes instead of 2
+* 12- v_1.1.1 - softmax function changed
+* 13- v_1.2 - uses adam optimizer 
+* 14- v_1.2.1 - now 7 classes,with adam optimizer
 
 - - - 
 
@@ -55,3 +55,5 @@ Code Snippets from
 Inspired by - 
 [Andrew Ng](https://www.linkedin.com/in/andrewyng/)
 
+Project partner- 
+[Rahul Lamge](https://github.com/rlamge)
